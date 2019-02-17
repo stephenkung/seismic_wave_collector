@@ -1,8 +1,6 @@
 # Introduction
 A low power seismic wave collector implemented on Kinetis L ARM cortexM0+ MCU.  
 The main process is: a seismic sensor generates analog data which is captured by ADC of the develop board, then MCU will handle it and send the data by bluetooth to a work station, which will display the wave signal on a window in real time.    
-The system looks like this, the image is blur cause I didn't take any high quality photo then which I should do: 
-![](https://github.com/stephenkung/seismic_wave_collector/blob/master/Capture.PNG)
 
 
 # More
