@@ -5,8 +5,7 @@ The main process is: a seismic sensor generates analog data which is captured by
 
 # More
 This is a feescale competition project I've done.   
-The code provided is the C part running on the ARM MCU.      
-The display window is implemented by MATLAB, which is not provided here.    
+The code provided is the C part running on the ARM MCU, the MATLAB display window and bluetooth driver.           
 
 Get the video show of this work if you understand Chinese:     
 [work show video](https://tv.sohu.com/v/dXMvNjMyOTk3NDIvNTgxMTg1ODkuc2h0bWw=.html)
